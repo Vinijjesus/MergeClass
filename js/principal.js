@@ -1,4 +1,5 @@
 function cumprimento() 
 {
-    alert("Pitopirulipãodoce");
+   var nome = prompt("Qual seu nome?");
+   alert("Boa tarde " + nome);
 }
